@@ -14,7 +14,7 @@ import json
 st.set_page_config(
     page_title="SHARAN Conversational AI",
     layout="wide",
-    page_icon="🎤"
+    page_icon="🌿"
 )
 
 # -----------------------------
@@ -347,7 +347,8 @@ st.markdown("""
 <style>
     .stApp {
         background: linear-gradient(rgba(15, 18, 22, 0.48), rgba(15, 18, 22, 0.48)),
-                    url('https://stillwater-main.onrender.com/images/c.png');
+                    url('https://png.pngtree.com/thumb_back/fh260/background/20231023/pngtree-dark-green-fabric-background-with-abstract-green-fabric-texture-image_13688802.png');
+                    #url('https://stillwater-main.onrender.com/images/c.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;

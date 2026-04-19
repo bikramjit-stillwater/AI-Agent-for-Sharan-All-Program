@@ -36,7 +36,7 @@ if "selected_query" not in st.session_state:
 def get_text(key):
     texts = {
         "english": {
-            "title": "SHARAN Conversational AI",
+            "title": "SHARAN Program Recommendation AI",
             "voice_input": "Voice Input",
             "sample_questions": "Sample Questions",
             "programs_diabetes": "Programs for Diabetes",
@@ -56,7 +56,7 @@ def get_text(key):
             "no_answer": "No matching SHARAN program was found clearly in the available catalog."
         },
         "hindi": {
-            "title": "शरण संवादात्मक कृत्रिम बुद्धिमत्ता",
+            "title": "शरण कार्यक्रम अनुशंसा कृत्रिम बुद्धिमत्ता",
             "voice_input": "वॉइस इनपुट",
             "sample_questions": "नमूना प्रश्न",
             "programs_diabetes": "डायबिटीज़ प्रोग्राम",

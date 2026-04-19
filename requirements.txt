@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+gTTS
+audio-recorder-streamlit
+SpeechRecognition
+python-dotenv
